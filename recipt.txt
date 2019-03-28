@@ -3,3 +3,5 @@ Rice
 Cake
 Chocolate
 Mango
+fish
+bird
